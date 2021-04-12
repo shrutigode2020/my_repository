@@ -1,1 +1,2 @@
 this is my django project
+designed employee registeration system with crud operations
